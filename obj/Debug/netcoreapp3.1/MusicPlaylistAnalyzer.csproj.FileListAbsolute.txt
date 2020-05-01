@@ -1,0 +1,11 @@
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.deps.json
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.dll
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/bin/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.pdb
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.dll
+/Users/joel/Desktop/IT Mizzou/IT2040/MusicPlaylistAnalyzer/obj/Debug/netcoreapp3.1/MusicPlaylistAnalyzer.pdb
